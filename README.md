@@ -1,5 +1,5 @@
 # hell-triangle
-:metal: Using tests in the Hell Triangle Challenge
+:metal: Using tests(Mocha + Chai) in the Hell Triangle Challenge
 
 Given a triangle of numbers, find the maximum total from top to bottom
 
